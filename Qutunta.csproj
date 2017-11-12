@@ -212,8 +212,10 @@
   <ItemGroup>
     <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\CheckGround.cs" />
+    <Compile Include="Assets\DestroyByContact.cs" />
     <Compile Include="Assets\DrawSceneLine.cs" />
     <Compile Include="Assets\EnemyController.cs" />
+    <Compile Include="Assets\GameController.cs" />
     <Compile Include="Assets\PlataformaFalling.cs" />
     <Compile Include="Assets\PlataformaMovil.cs" />
     <Compile Include="Assets\PlayerController.cs" />
